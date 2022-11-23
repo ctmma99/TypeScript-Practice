@@ -1,5 +1,5 @@
 # TypeScript-Practice
-
+  
 ## yarnでcreate react-appする方法
 ```
 yarn create react-app ディレクトリ名 --template typescript
